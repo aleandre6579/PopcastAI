@@ -1,10 +1,8 @@
+essentia-tensorflow
 yt-dlp
-numpy
 ipython
 matplotlib
 pandas
 tqdm
 requests
 librosa
-tensorflow[with-cuda]
-essentia-tensorflow
